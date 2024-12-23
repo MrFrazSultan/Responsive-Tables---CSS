@@ -1,0 +1,7 @@
+// Reduce Heading Size on mobile by 40%
+
+@media (max-width: 768px) {
+    h1, h2, h3, h4, h5, h6 {
+        font-size: calc(36px * 0.6) !important;
+    }
+}
